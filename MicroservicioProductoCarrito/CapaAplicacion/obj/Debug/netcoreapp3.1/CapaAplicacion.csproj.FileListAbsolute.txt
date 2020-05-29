@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\bin\Debug\netcoreapp3.1\CapaAplicacion.deps.json
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\bin\Debug\netcoreapp3.1\CapaAplicacion.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\bin\Debug\netcoreapp3.1\CapaAplicacion.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.AssemblyInfo.cs
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.csproj.CopyComplete
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAplicacion\obj\Debug\netcoreapp3.1\CapaAplicacion.pdb

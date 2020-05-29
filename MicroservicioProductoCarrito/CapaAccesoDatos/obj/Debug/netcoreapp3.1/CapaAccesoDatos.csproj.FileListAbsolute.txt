@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAccesoDatos.deps.json
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaDominio.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAccesoDatos.runtimeconfig.json
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAccesoDatos.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAplicacion.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaAplicacion.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\bin\Debug\netcoreapp3.1\CapaDominio.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.genruntimeconfig.cache
+C:\Users\usuario\source\repos\MicroservicioProductoCarrito\CapaAccesoDatos\obj\Debug\netcoreapp3.1\CapaAccesoDatos.csproj.CoreCompileInputs.cache

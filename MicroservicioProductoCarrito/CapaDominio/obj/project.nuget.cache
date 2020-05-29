@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/v7Qqz6LwJW7gg0V9dF8EuFpzJXHGeWhXX3oNx4Fhrv/+8VLeFfhbKOudkux1t272QdygU09b50g/CGKK0h4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\MicroservicioProductoCarrito\\CapaDominio\\CapaDominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
